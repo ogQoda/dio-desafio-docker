@@ -3,7 +3,7 @@ Repositorio criado para entrega do desafio de projeto relacionado ao módulo de 
 [DIO - Bootcamp Kotlin](https://www.dio.me/bootcamp/bootcamp-tqi-kotlin)
 
 ## Informações complementares
-O projeto entregue contempla o arquivo .yml contendo um container apache, mysql e adminer além do código relacionado à uma página exemplo HTML.
+O projeto entregue contempla o arquivo .yml, além do código relacionado à uma página exemplo HTML.
 
 ## Pré-requisitos
 * Instalação do docker-compose no sistema operacional
